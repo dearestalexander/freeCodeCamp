@@ -62,7 +62,7 @@ p  {
 
 img {
   display: block;
-  max-width: 100%;
+  width: 500px;
   margin: 20 auto 10;
   justify-content: center;
   align-items: center;
